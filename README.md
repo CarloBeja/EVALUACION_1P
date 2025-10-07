@@ -146,10 +146,7 @@ se uso git flow hotfix start para crear rama para corrección rápida / cambio u
 - El número y enlace al pull request.
 
 **📝 Respuesta:**
-Aquí tienes el texto que pediste, limpio y en formato continuo:
-
 ---
-
 Issue GitHub elemento para reportar bugs, proponer mejoras o documentar tareas. Es un ticket/registro con discusión, etiquetas y asignados.
 
 Pull Request petición para fusionar cambios de una rama (o fork) hacia otra rama (por ejemplo, develop → main). Permite revisión de código, comentarios y acciones CI antes de integrar los cambios.
@@ -188,7 +185,8 @@ Diferencia y relación un issue describe la tarea; un PR contiene los cambios qu
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 5 -->
+Un conflicto ocurre cuando Git no puede reconciliar automáticamente cambios porque dos ramas han modificado la misma parte del mismo archivo (o un archivo con el mismo nombre con contenidos incompatibles). En este caso ambas ramas crearon/editaron archivoA.txt con contenidos distintos, por lo que Git solicitó intervención manual.
+
 
 ---
 
@@ -215,4 +213,4 @@ Diferencia y relación un issue describe la tarea; un PR contiene los cambios qu
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 6 -->
+<!-- Escribe aquísdasu respuesta completa a la Pregunta 6 -->
